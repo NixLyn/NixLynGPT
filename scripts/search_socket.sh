@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-search_directory="freedomGPT"
+search_directory="../freedomGPT"
 
 # Function to search for "socket" and print file content
 search_socket() {
