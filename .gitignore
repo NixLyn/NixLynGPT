@@ -1,3 +1,11 @@
+# Added
+SS
+sockets.txt
+search_request.sh
+udp_socket_server.py
+
+#Template for python below
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
