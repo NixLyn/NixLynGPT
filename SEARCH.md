@@ -63,10 +63,12 @@ search_recursive "$search_directory"
 ---
 ## Truncated
 ```
-![Screenshot](SS/server.jpeg)
+### output
+![Screenshot](SS/server.png)
 ```
 ```
-![Screenshot](SS/client_conn.jpeg)
+### output
+![Screenshot](SS/client.png)
 ```
 ---
 
