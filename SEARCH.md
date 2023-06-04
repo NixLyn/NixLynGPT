@@ -74,7 +74,7 @@ search_recursive "$search_directory"
 File {Server}: freedomGPT/docker-app/server.js 
 File {Client connect from front-end}: freedomGPT/docker-app/src/app/screens/Main.tsx
 
-### to be continued soon
+### to be continued soon.
 
 ```
 
