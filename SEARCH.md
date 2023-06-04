@@ -60,6 +60,37 @@ search_recursive() {
 # Start the recursive search from the specified directory
 search_recursive "$search_directory"
 
+---
+## Truncated
+```
+----- File: freedomGPT/docker-app/server.js -----
+import { spawn } from "child_process";
+import express from "express";
+import http from "http";
+import path from "path";
+import { Server } from "socket.io";
+
+```
+```
+----- File: freedomGPT/docker-app/src/app/screens/Main.tsx -----
+import { useEffect, useRef, useState } from "react";
+import { v4 as uuidv4 } from "uuid";
+import InitialLoader from "../components/InitialLoader";
+import Input from "../components/Input";
+import Messages from "../components/Messages";
+import { useMessageFetching } from "../context/MessageFetch";
+import { MessageType } from "../types/types";
+
+const socket = io("http://localhost:8889");
+
+```
+---
+
+--->
+Files of interest from output
+File {Server}: freedomGPT/docker-app/server.js 
+File {Client connect from front-end}: freedomGPT/docker-app/src/app/screens/Main.tsx
+
 ### to be continued soon
 
 ```
